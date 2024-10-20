@@ -79,5 +79,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ![Home Page](images/rules%20homepage1.png)
 ![Home Page](images/rules%20homepage2.png)
 
-### Weather Summary
+### Evaluate Rule Page
 ![Evaluate](images/evaluate%20page.png)
